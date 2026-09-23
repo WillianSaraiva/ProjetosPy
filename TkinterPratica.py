@@ -1,6 +1,3 @@
-#Crie um programa com interface grafica em Python
-#que receba dois numeros e realize a soma de ambos.
-
 import tkinter as tk
 from tkinter import messagebox
 
